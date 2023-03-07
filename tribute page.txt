@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Tribute Website   </title>
+    <link rel="stylesheet" href="Tribute.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <section class="top_section">
+          <div class="image_container">
+            <img src="./rg.jpg" alt="">
+          <div>
+            
+          
+             
+          </div>
+        </section>
+        <section class="about_section">
+          <h2>ROHIT SIR</h2>
+          <p>
+            <b>ROHIT GHADGE</b>
+            is an Indian former teacher 
+            who has taught us CNS for sem fifth .He managed all the oral and practical exam by bringing external.
+            He is very kind hearted . He is such an adorable personality.
+            He is our favourite teacher .He managed our trip succesfully of Meher Retreat.
+
+          </p>
+        </section>
+        <section class="biography_section">
+          <h3>Biographies</h3>
+          <ul>
+            <li>
+              CNS TECHNICAL PUBLICATION 
+
+            </li>
+            <li>
+              CNS TECKNOWLEDGE 
+
+            </li>
+           
+            <li>
+             CNS TECH NEO
+            </li>
+           
+            
+           
+          </ul>
+        </section>
+        <footer>
+          <p>
+            INTERNSHIP TRAINING COURSE BY ROHIT GHADGE 
+            <a href="https://www.bing.com/ck/a?!&&p=8952e080de63d548JmltdHM9MTY3NDY5MTIwMCZpZ3VpZD0zZWRlNGQ1Yy0xMDI3LTZkZGItM2M5Yy01ZDAzMTFiYzZjNGYmaW5zaWQ9NTE5MA&ptn=3&hsh=3&fclid=3ede4d5c-1027-6ddb-3c9c-5d0311bc6c4f&psq=sumago+infotech+pvt+ltd&u=a1aHR0cHM6Ly9pbi5saW5rZWRpbi5jb20vY29tcGFueS9zdW1hZ28taW5mb3RlY2gtcHZ0LWx0ZA&ntb=1"
+              >Wikipedia.</a
+            >
+          </p>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
